@@ -9,7 +9,7 @@
 
 REPO_ROOT=$(git rev-parse --show-toplevel)
 
-ACR_NAME="rakirahman"
+ACR_NAME="REPLACE_WITH_YOUR_ACR_NAME"
 ACR_URL="${ACR_NAME}.azurecr.io"
 DOCKER_VERSION="5:27.5.1-1~ubuntu.24.04~noble"
 
